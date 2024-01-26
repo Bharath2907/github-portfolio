@@ -27,19 +27,18 @@
 
 # REFLECTIONS 
 ## --> Assignment 1 : Poster
-##### Through this Industrial Talk, I learned about the job scopes of web developers, Android developers, and more. The speakers also gave us advice and tips to motivate and guide us to the correct path. They also introduced different types of software and skills that are required for every job, such as Figma.
+##### I gained knowledge on the responsibilities of web developers, Android developers, and other developers through this Industrial Talk. In order to inspire and direct us in the right direction, the speakers also offered us counsel and pointers. They also introduced several software packages and job-specific competencies, such Figma.
 
 ## --> Assignment 2 : Video
-##### It was a memorable visit to UTM Digital. We get to visit their workplace and some of the areas in the building. For example, the TM Room and staff also showed us how to use the HUAWEI IdeaHub Interative Board. Furthermore, we had the opportunity to meet the staff there and learn about their job scope.
+##### I had an amazing day at UTM Digital. We get to see parts of the building and their place of employment. For instance, the HUAWEI IdeaHub Interactive Board was demonstrated to us by the staff in the TM Room. We also got to meet the employees and find out more about the range of work they do.As students, we gained a great deal of knowledge about how the UTM system functions in real life.
 
 ## --> Assignment 3 : Report
-##### I have the opportunity to learn about analytics and some of the careers in analytics through this Indusrial Talk. For example, a data analyst and a data engineer. Furthermore, I also learn about the technologies and tools that they use in their daily lives, such as Python and Superset. For the next four years, I hope to be more creative and innovative. Continuous learning enables me to keep up with all the latest technology and explore new things.
+##### Through this Industrial Talk, I got the chance to learn more about analytics and some of the jobs in analytics. A data engineer and an analyst, for instance. In addition, I learn about the tools and technologies they use on a regular basis, like Superset and Python. I intend to be more imaginative and inventive during the next four years. I can explore new things and stay up to date with the latest technologies because I'm always learning new things.
 
 ## --> Assignment 4 : NewsLetter
-##### I learned about how the farm works, from the ways they farm the vegetables up until how they create an online website for customers to place orders and make sure that their customers have fresh vegetables.This innovation truly helps people, especially housewives, easily gain access to fresh and organic vegetables, even during pandemics. People can place an order on the online store and have it delivered to their doorstep, or they can pick it up themselves.
-
+##### I gained knowledge about the farm's operations, from how the veggies are farmed to how they build an online ordering system and guarantee that their clients receive fresh produce.Even in the event of a pandemic, this invention genuinely makes it easier for people, particularly women, to obtain fresh and organic veggies. Customers have the option to pick up their product from the online store or have it delivered right to their door.
 ## --> PC Assemble
-##### During the PC Assemble session, so far I have learned how to disassemble and reassemble a PC. Further, I was introduced to many different parts that are inside a PC. While the session was being carried out, the instructor also explained the names and functions of every part of the PC.
+##### I have gained knowledge about disassembling and reassembling a PC thus far throughout the PC Assemble session. I was also introduced to a wide variety of PC components. The lecturer also went over the names and purposes of each component of the PC during the lesson.It was pretty interesting as we were following the lecture and doing it by ourself even though we have never been into the interior of a PC before.
 
 ## --> Design Thinking
-##### After carrying out this design thinking project, I realized that creativity and innovation are important elements in order to solve a problem, and I have learned how to solve a problem step by step. In addition, teamwork is indeed a crucial factor in completing a task, as without the help of members, it will be hard for me to do this project alone.
+##### After completing this design thinking assignment, I understood that problem-solving requires creativity and cleverness, and I now know how to approach problems systematically. It is also true that teamwork is essential to complete a task; without the support of my teammates, I would never be able accomplish this project with me being suffering 
